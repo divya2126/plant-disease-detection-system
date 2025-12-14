@@ -19,4 +19,11 @@ A Flask-based machine learning web application that detects plant diseases from 
 The trained model is not included in this repository due to GitHub size limits.
 
 📥 Download the model from Google Drive and place it in:
+https://drive.google.com/file/d/1Pn2sQw8auulT5aIPTmcrGPR3IGVhC4qt/view?usp=sharing
+
+## ▶ How to Run
+```bash
+pip install -r requirements.txt
+python app.py
+
 
